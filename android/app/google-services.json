@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1010074873335",
+    "project_id": "classic-parts-388f5",
+    "storage_bucket": "classic-parts-388f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010074873335:android:67080892138c2e2d4c12f2",
+        "android_client_info": {
+          "package_name": "com.classic.classicparts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdobIqFk3aNhHVVE1VjPPuCVEt6A6KleM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
